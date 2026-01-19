@@ -1,0 +1,28 @@
+trade :
+
+dbase_account_hist
+- BNM Sector (done)
+
+
+col_facilities_application_master
+- Principal OS (xleh)
+- country operation (done)
+- country exposure (done)
+- amount approved  (xleh)
+- contingent liability (xsure)
+
+tradeMaster
+- Trade Method (done)
+- facility (done) 
+- currency (done)
+- application status (done)
+
+param_ccy_exchange_rate
+- Rate (done)
+
+
+a = b.iloc[np.where(b.position is latest date)
+
+c = d.drop_duplicates()
+
+e = a.merge(c,on='account',how=left)
